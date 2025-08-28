@@ -1,0 +1,20 @@
+/*This is my body style*/
+body{
+ background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkryPmZOwrtEXThzSqveArZ22jRoMA-tlqCg&s");
+  background-size: cover;
+  font-size:30px;
+  font-family:serif;
+}
+
+/*This is the h1 style*/
+h1{
+ color:white;
+ background-color:grey;
+ padding-top: 20px;
+ border-left:5px solid blue;
+ border-radius: 10px;
+ margin-bottom: 30px;
+ margin-top:100px;
+/*background-color: cyan;*/
+/*  background-color: green; */
+}
